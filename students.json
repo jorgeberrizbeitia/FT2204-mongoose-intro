@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Maria",
+    "age": 20,
+    "likesPokemon": true,
+    "pizzaToppings": ["Piña", "Jamon"]
+  },
+  {
+    "name": "Javi",
+    "age": 23,
+    "likesPokemon": false,
+    "pizzaToppings": ["Vegetales"]
+  },
+  {
+    "name": "Juan",
+    "age": 60,
+    "likesPokemon": true,
+    "pizzaToppings": ["Piña", "Jamon"]
+  },
+  {
+    "name": "Sarah",
+    "age": 19,
+    "likesPokemon": false,
+    "pizzaToppings": ["Piña"]
+  }
+]
+
